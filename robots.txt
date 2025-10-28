@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://thezenithlab.github.io/al-folio/sitemap.xml
+Sitemap: https://thezenithlab.github.io./sitemap.xml
